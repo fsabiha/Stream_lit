@@ -2,6 +2,9 @@
     "cSpell.words": [
         "numpy",
         "scikit",
-        "streamlit"
+        "selectbox",
+        "streamlit",
+        "Trustmark",
+        "yfinance"
     ]
 }
